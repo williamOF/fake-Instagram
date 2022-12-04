@@ -204,3 +204,10 @@ a{
     display: none;
   }
 }
+
+f{
+
+  display: flex;
+  flex-direction: column;
+
+}
